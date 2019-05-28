@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\2d81403f8f262bc104b24ab42cf38eeeccf178d1\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\andr\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_3734e51f46cc13fe016723b86bdd501b8b734aad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\4724a50d7e30a6a624c6a2cc7ca3e5b1c3a0874d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\andr\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_6c01a1216298889cc58527a54801648398098365.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\b05d0fad5dcf2e711e5ba51392a388801a529801\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\andr\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_ddbaa3035a437d3dafc19854be15751e751a201b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\f2b429fc37b2f2e03bf1b0ed77ce4ad67fc6a811\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="D:\andr\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_577ead45bc77d3d997059eada0291b057cb98c21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\andr\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_3e801f2c585276f3f273a9825aabeda71442f872.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\2d81403f8f262bc104b24ab42cf38eeeccf178d1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\andr\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_82bbc5712a6bd834dedd19276583fe64978c12e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\a2e508620dc4f966668e991585564f7e80a41a55\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\andr\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_cd8a57f5d4b7ce277ca418404cfdd5bcc0fcc016.jar" />
+    </item>
+
+</items>

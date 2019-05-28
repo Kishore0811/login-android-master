@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mcxiaoke.volley:library-aar:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/963aad10d356dcb1909205763067192f5493f81a/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/963aad10d356dcb1909205763067192f5493f81a/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

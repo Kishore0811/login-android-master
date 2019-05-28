@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "C:\\xampp\\htdocs\\AndroidLoginAndRegistration\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w720dp-v13\\values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramsheela\\.android\\build-cache\\e28c0888be690432835b78644aa4abdf4839ba2d\\output\\res\\values-w720dp\\values-w720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 76,
+                        "endOffset": 303
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\andr\\AndroidLoginAndRegistration\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w720dp-v13\\values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\.android\\build-cache\\b05d0fad5dcf2e711e5ba51392a388801a529801\\output\\res\\values-w720dp\\values-w720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 76,
+                        "endOffset": 303
+                    }
+                }
+            }
+        ]
+    }
+]
